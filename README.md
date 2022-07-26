@@ -1,4 +1,4 @@
-# Movies Review Database
+# Deploying Node.js Application (Movies Review Database) on IBM Cloud and running a CI/CD Pipeline.
 
 ### Prerequisite: Sign Up for IBM Cloud account
 
